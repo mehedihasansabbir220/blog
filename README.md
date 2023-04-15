@@ -73,7 +73,7 @@ That's it! You now have a Next.js + MDX blog up and running. Happy blogging!
 ## Contact
 
 
-Linked In - [Eric Otieno](https://www.linkedin.com/in/mehedi-hasan-sabbir-1a5909216/)
+Linked In - [Mehedi hasan sabbir ](https://www.linkedin.com/in/mehedi-hasan-sabbir-1a5909216/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
