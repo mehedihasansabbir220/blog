@@ -16,7 +16,7 @@ This starter template is designed to get you up and running with a Next.js-power
 To get started, clone the repository and install the dependencies:
 
 ```sh
-git clone https://github.com/eric-ricky/nextjs-mdx-blog-starter.git
+git clone https://github.com/mehedihasansabbir220/blog/
 cd nextjs-mdx-blog-starter
 
 npm install
@@ -72,18 +72,8 @@ That's it! You now have a Next.js + MDX blog up and running. Happy blogging!
 
 ## Contact
 
-Website - [website](https://erick-otieno-portfolio.vercel.app/)
 
-Linked In - [Eric Otieno](https://linkedin.com/in/erick-otieno-7532b01b9)
+Linked In - [Eric Otieno](https://www.linkedin.com/in/mehedi-hasan-sabbir-1a5909216/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- MARKDOWN LINKS & IMAGES -->
-
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/erick-otieno-7532b01b9
-[product-preview-dark]: preview-dark.jpeg
-[product-preview-light]: preview-light.jpeg
-# blog
